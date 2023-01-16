@@ -1,0 +1,315 @@
+[04-Dec-2022 12:38:42 UTC] PHP Warning:  include(php/bd_con.php): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 2
+[04-Dec-2022 12:38:42 UTC] PHP Warning:  include(): Failed opening 'php/bd_con.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 2
+[04-Dec-2022 12:38:42 UTC] PHP Warning:  include(templates/header.php): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 3
+[04-Dec-2022 12:38:42 UTC] PHP Warning:  include(): Failed opening 'templates/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 3
+[04-Dec-2022 12:38:42 UTC] PHP Warning:  include(templates/no-user.php): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 12:38:42 UTC] PHP Warning:  include(): Failed opening 'templates/no-user.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 12:38:42 UTC] PHP Warning:  include(templates/footer.php): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 19
+[04-Dec-2022 12:38:42 UTC] PHP Warning:  include(): Failed opening 'templates/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 19
+[04-Dec-2022 12:38:45 UTC] PHP Warning:  include(php/bd_con.php): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 2
+[04-Dec-2022 12:38:45 UTC] PHP Warning:  include(): Failed opening 'php/bd_con.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 2
+[04-Dec-2022 12:38:45 UTC] PHP Warning:  include(templates/header.php): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 3
+[04-Dec-2022 12:38:45 UTC] PHP Warning:  include(): Failed opening 'templates/header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 3
+[04-Dec-2022 12:38:45 UTC] PHP Warning:  include(templates/no-user.php): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 12:38:45 UTC] PHP Warning:  include(): Failed opening 'templates/no-user.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 12:38:45 UTC] PHP Warning:  include(templates/footer.php): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 19
+[04-Dec-2022 12:38:45 UTC] PHP Warning:  include(): Failed opening 'templates/footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 19
+[04-Dec-2022 16:31:42 UTC] PHP Warning:  include(/home/nxd060c1m06e/public_html/sergiofabregat.online/login): failed to open stream: Success in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 16:31:42 UTC] PHP Warning:  include(): Failed opening '../login/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 16:31:48 UTC] PHP Warning:  include(/home/nxd060c1m06e/public_html/sergiofabregat.online/login): failed to open stream: Success in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 16:31:48 UTC] PHP Warning:  include(): Failed opening '../login/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 16:31:50 UTC] PHP Warning:  include(/home/nxd060c1m06e/public_html/sergiofabregat.online/login): failed to open stream: Success in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 16:31:50 UTC] PHP Warning:  include(): Failed opening '../login/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 16:31:52 UTC] PHP Warning:  include(/home/nxd060c1m06e/public_html/sergiofabregat.online/login): failed to open stream: Success in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 16:31:52 UTC] PHP Warning:  include(): Failed opening '../login/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 16:32:40 UTC] PHP Warning:  include(../../login/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 16:32:40 UTC] PHP Warning:  include(): Failed opening '../../login/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 16:32:41 UTC] PHP Warning:  include(../../login/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 16:32:41 UTC] PHP Warning:  include(): Failed opening '../../login/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 16:32:42 UTC] PHP Warning:  include(../../login/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 16:32:42 UTC] PHP Warning:  include(): Failed opening '../../login/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 16:33:19 UTC] PHP Warning:  include(/home/nxd060c1m06e/public_html/sergiofabregat.online/login): failed to open stream: Success in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 16:33:19 UTC] PHP Warning:  include(): Failed opening '../login/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 17:59:37 UTC] PHP Warning:  include(/home/nxd060c1m06e/public_html/sergiofabregat.online/login): failed to open stream: Success in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 17:59:37 UTC] PHP Warning:  include(): Failed opening '../login/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 17:59:42 UTC] PHP Warning:  include(/home/nxd060c1m06e/public_html/sergiofabregat.online/login): failed to open stream: Success in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 17:59:42 UTC] PHP Warning:  include(): Failed opening '../login/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php on line 6
+[04-Dec-2022 18:26:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/header.php on line 2
+[04-Dec-2022 18:26:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/header.php on line 2
+[04-Dec-2022 18:26:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/header.php on line 2
+[04-Dec-2022 18:26:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/header.php on line 2
+[04-Dec-2022 18:26:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/header.php on line 2
+[07-Dec-2022 00:25:01 UTC] PHP Notice:  Undefined variable: id in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 00:25:01 UTC] PHP Notice:  Undefined variable: id in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 00:25:01 UTC] PHP Notice:  Undefined variable: id in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 00:25:01 UTC] PHP Notice:  Undefined variable: id in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 00:26:37 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 28
+[07-Dec-2022 00:26:37 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 28
+[07-Dec-2022 00:26:37 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 28
+[07-Dec-2022 00:26:37 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 28
+[07-Dec-2022 00:26:53 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:26:53 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:26:53 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:26:53 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:26:55 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:26:55 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:26:55 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:26:55 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:26:57 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:26:57 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:26:57 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:26:57 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:01 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:01 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:01 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:01 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:03 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:03 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:03 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:03 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:08 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:08 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:08 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:08 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:09 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:09 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:09 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:09 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:11 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:11 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:11 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 00:27:11 UTC] PHP Notice:  Undefined variable: activo in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 35
+[07-Dec-2022 01:44:12 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 01:44:12 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 01:44:12 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 01:44:12 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:44:12 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:44:12 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:44:41 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 01:44:41 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 01:44:41 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 01:44:41 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:44:41 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:44:41 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:44:43 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 01:44:43 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 01:44:43 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 01:44:43 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:44:43 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:44:43 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:45:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:45:42 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:42 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:42 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:45:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:45:42 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:42 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:42 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:45:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:45:42 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:42 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:42 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:45:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:45:42 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:42 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:42 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:45:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:45:44 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:44 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:44 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:45:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:45:44 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:44 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:44 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:45:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:45:44 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:44 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:44 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:45:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:45:44 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:44 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:44 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:45:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:45:45 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:45 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:45 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:45:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:45:45 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:45 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:45 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:45:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:45:45 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:45 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:45 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:45:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:45:45 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:45 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:45:45 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:46:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:46:12 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:12 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:12 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:46:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:46:12 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:12 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:12 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:46:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:46:12 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:12 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:12 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:46:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:46:12 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:12 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:12 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:46:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:46:13 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:13 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:13 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:46:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:46:13 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:13 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:13 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:46:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:46:13 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:13 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:13 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:46:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:46:13 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:13 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:13 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:46:54 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:54 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:54 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:46:54 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:54 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:54 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:46:54 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:54 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:54 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:46:54 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:54 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 50
+[07-Dec-2022 01:46:54 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 51
+[07-Dec-2022 01:47:58 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 47
+[07-Dec-2022 01:47:58 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 47
+[07-Dec-2022 01:47:58 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 48
+[07-Dec-2022 01:48:00 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 47
+[07-Dec-2022 01:48:00 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 47
+[07-Dec-2022 01:48:00 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 48
+[07-Dec-2022 01:48:13 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 47
+[07-Dec-2022 01:48:13 UTC] PHP Notice:  Undefined variable: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 47
+[07-Dec-2022 01:48:13 UTC] PHP Notice:  Undefined variable: nombre_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 48
+[07-Dec-2022 01:53:17 UTC] PHP Parse error:  syntax error, unexpected '$nombre_ayuntamiento' (T_VARIABLE) in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 42
+[07-Dec-2022 01:53:19 UTC] PHP Parse error:  syntax error, unexpected '$nombre_ayuntamiento' (T_VARIABLE) in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 42
+[07-Dec-2022 01:53:31 UTC] PHP Parse error:  syntax error, unexpected '$nombre_ayuntamiento' (T_VARIABLE) in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 42
+[07-Dec-2022 01:54:23 UTC] PHP Parse error:  syntax error, unexpected '$nombre_ayuntamiento' (T_VARIABLE) in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 44
+[07-Dec-2022 01:54:55 UTC] PHP Parse error:  syntax error, unexpected '$nombre_ayuntamiento' (T_VARIABLE) in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 42
+[07-Dec-2022 01:54:56 UTC] PHP Parse error:  syntax error, unexpected '$nombre_ayuntamiento' (T_VARIABLE) in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 42
+[07-Dec-2022 01:55:10 UTC] PHP Parse error:  syntax error, unexpected '$cont' (T_VARIABLE) in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 39
+[07-Dec-2022 01:56:13 UTC] PHP Parse error:  syntax error, unexpected '$nombre_ayuntamiento' (T_VARIABLE) in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 42
+[07-Dec-2022 01:56:13 UTC] PHP Parse error:  syntax error, unexpected '$nombre_ayuntamiento' (T_VARIABLE) in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 42
+[07-Dec-2022 01:56:24 UTC] PHP Parse error:  syntax error, unexpected '$nombre_ayuntamiento' (T_VARIABLE) in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 42
+[07-Dec-2022 01:56:26 UTC] PHP Parse error:  syntax error, unexpected '$nombre_ayuntamiento' (T_VARIABLE) in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 42
+[07-Dec-2022 01:56:27 UTC] PHP Parse error:  syntax error, unexpected '$nombre_ayuntamiento' (T_VARIABLE) in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 42
+[07-Dec-2022 01:56:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php:40
+Stack trace:
+#0 /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php(8): include()
+#1 {main}
+  thrown in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 01:56:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php:40
+Stack trace:
+#0 /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php(8): include()
+#1 {main}
+  thrown in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 01:56:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php:40
+Stack trace:
+#0 /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php(8): include()
+#1 {main}
+  thrown in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 01:57:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php:40
+Stack trace:
+#0 /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php(8): include()
+#1 {main}
+  thrown in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 01:58:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php:40
+Stack trace:
+#0 /home/nxd060c1m06e/public_html/sergiofabregat.online/panel-de-usuario/index.php(8): include()
+#1 {main}
+  thrown in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 40
+[07-Dec-2022 01:59:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:59:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:59:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:59:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:59:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 01:59:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 02:00:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 02:00:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 02:00:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 02:00:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 38
+[07-Dec-2022 02:01:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 39
+[07-Dec-2022 02:01:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 39
+[07-Dec-2022 02:01:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 39
+[07-Dec-2022 02:01:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 39
+[07-Dec-2022 02:04:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 39
+[07-Dec-2022 02:04:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 39
+[07-Dec-2022 02:06:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 39
+[07-Dec-2022 02:06:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 39
+[07-Dec-2022 02:06:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 39
+[07-Dec-2022 02:06:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 39
+[07-Dec-2022 19:15:20 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 79
+[07-Dec-2022 19:15:20 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 79
+[07-Dec-2022 19:15:20 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 79
+[07-Dec-2022 19:15:24 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 79
+[07-Dec-2022 19:15:24 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 79
+[07-Dec-2022 19:15:24 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 79
+[07-Dec-2022 19:15:29 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 79
+[07-Dec-2022 19:15:29 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 79
+[07-Dec-2022 19:15:29 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 79
+[07-Dec-2022 19:16:28 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 79
+[07-Dec-2022 19:16:28 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 79
+[07-Dec-2022 19:16:28 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 79
+[07-Dec-2022 19:17:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 75
+[07-Dec-2022 19:17:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 75
+[07-Dec-2022 19:17:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 75
+[07-Dec-2022 19:17:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 75
+[07-Dec-2022 19:27:26 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:27:26 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:27:26 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:27:26 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:27:29 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:27:29 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:27:29 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:27:29 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:27:48 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:27:48 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:27:48 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:27:48 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:27:49 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:27:49 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:27:49 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:27:49 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:39 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:39 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:39 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:39 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:41 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:41 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:41 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:41 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:46 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:46 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:46 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:46 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:48 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:48 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:48 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:48 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:54 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:54 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:54 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:28:54 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:32:35 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:32:35 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:32:36 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:32:36 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:32:39 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77
+[07-Dec-2022 19:32:39 UTC] PHP Notice:  Undefined index: id_ayuntamiento in /home/nxd060c1m06e/public_html/sergiofabregat.online/templates/user-panel.php on line 77

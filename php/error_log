@@ -1,0 +1,96 @@
+[07-Dec-2022 02:06:58 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 02:06:58 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 02:06:58 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 02:06:58 UTC] PHP Notice:  Undefined index: marcados_4 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:15:22 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:15:22 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:15:22 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:15:28 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:15:28 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:33:24 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:33:24 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:33:24 UTC] PHP Notice:  Undefined index: marcados_2 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:33:24 UTC] PHP Notice:  Undefined index: marcados_4 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:33:27 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:33:27 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:33:27 UTC] PHP Notice:  Undefined index: marcados_2 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:33:27 UTC] PHP Notice:  Undefined index: marcados_3 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:33:30 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:33:30 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:33:30 UTC] PHP Notice:  Undefined index: marcados_3 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:33:30 UTC] PHP Notice:  Undefined index: marcados_4 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:33:54 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:33:54 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:33:54 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:33:54 UTC] PHP Notice:  Undefined index: marcados_4 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:51:28 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:51:28 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:51:28 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:51:28 UTC] PHP Notice:  Undefined index: marcados_2 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:51:33 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:51:33 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:51:33 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:51:33 UTC] PHP Notice:  Undefined index: marcados_4 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:53:21 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:53:21 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:53:21 UTC] PHP Notice:  Undefined index: marcados_4 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:53:25 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:53:25 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:53:38 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:53:38 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:53:38 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:53:38 UTC] PHP Notice:  Undefined index: marcados_3 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:53:41 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:53:41 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[07-Dec-2022 19:53:41 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[07-Dec-2022 19:53:41 UTC] PHP Notice:  Undefined index: marcados_4 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[10-Dec-2022 19:58:41 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 19:58:41 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 19:58:41 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[10-Dec-2022 19:58:44 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 19:58:44 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 19:58:44 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[10-Dec-2022 19:58:44 UTC] PHP Notice:  Undefined index: marcados_4 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[10-Dec-2022 20:06:59 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 20:06:59 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 20:06:59 UTC] PHP Notice:  Undefined index: marcados_4 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[10-Dec-2022 20:07:03 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 20:07:03 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 20:07:03 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[10-Dec-2022 20:07:03 UTC] PHP Notice:  Undefined index: marcados_4 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[10-Dec-2022 20:10:41 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 20:10:41 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 20:10:41 UTC] PHP Notice:  Undefined index: marcados_4 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[10-Dec-2022 20:10:49 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 20:10:49 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 20:10:49 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[10-Dec-2022 20:10:49 UTC] PHP Notice:  Undefined index: marcados_4 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[10-Dec-2022 22:51:44 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 22:51:44 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 22:51:44 UTC] PHP Notice:  Undefined index: marcados_2 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[10-Dec-2022 22:51:44 UTC] PHP Notice:  Undefined index: marcados_4 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[10-Dec-2022 22:51:50 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 22:51:50 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[10-Dec-2022 22:51:50 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[10-Dec-2022 22:51:50 UTC] PHP Notice:  Undefined index: marcados_2 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[11-Dec-2022 00:07:56 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[11-Dec-2022 00:07:56 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[11-Dec-2022 00:07:56 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[14-Dec-2022 18:38:37 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[14-Dec-2022 18:38:37 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[14-Dec-2022 18:38:37 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[14-Dec-2022 18:38:37 UTC] PHP Notice:  Undefined index: marcados_2 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[14-Dec-2022 18:38:37 UTC] PHP Notice:  Undefined index: marcados_3 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[14-Dec-2022 18:38:37 UTC] PHP Notice:  Undefined index: marcados_4 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[14-Dec-2022 18:41:03 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[14-Dec-2022 18:41:03 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[14-Dec-2022 18:41:03 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[14-Dec-2022 18:41:03 UTC] PHP Notice:  Undefined index: marcados_3 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[29-Dec-2022 01:09:09 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[29-Dec-2022 01:09:09 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[29-Dec-2022 01:09:09 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[29-Dec-2022 01:17:52 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[29-Dec-2022 01:17:52 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[29-Dec-2022 01:17:52 UTC] PHP Notice:  Undefined index: marcados_1 in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 16
+[29-Dec-2022 01:44:36 UTC] PHP Warning:  include(error_log/): failed to open stream: No such file or directory in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
+[29-Dec-2022 01:44:36 UTC] PHP Warning:  include(): Failed opening 'error_log/' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nxd060c1m06e/public_html/sergiofabregat.online/php/update-ayuntamiento.php on line 3
